@@ -49087,7 +49087,7 @@ CREATE TABLE `general_settings` (
 --
 
 INSERT INTO `general_settings` (`id`, `company_name`, `address`, `country`, `state`, `city`, `pincode`, `date_formet`, `logo_img`, `favicon_img`, `timezone`, `updated_at`, `created_at`) VALUES
-(1, 'LawOffice', '804, Rivera Wave, Nr. McDonald\'s, Kalawad Road', 101, 12, 1011, 360005, 1, '', '', '194', '2019-12-12 05:30:16', '0000-00-00 00:00:00');
+(1, 'CaseMate', '804, River Side, Nr. McDonald\'s, Main Road', 101, 12, 1011, 360005, 1, '', '', '193', '2024-12-12 05:30:16', '0000-00-00 00:00:00');
 
 -- --------------------------------------------------------
 

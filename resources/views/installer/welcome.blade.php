@@ -16,7 +16,7 @@
                             {{ csrf_field() }}
 
                             <h2> Welcome to setup wizard </h2>
-                            <p class="text-left">Thanks you for purchasing LawOffice,LawOffice System Is A Web Based Application For Advocates And Law Firm To Maintain Their Office. This Software Is Very Easy To Operate And Light On System Tool To Maintain Information About Clients, Cases, Hearings Etc.</p>
+                            <p class="text-left">Thanks you for purchasing CaseMate,CaseMate System Is A Web Based Application For Advocates And Law Firm To Maintain Their Office. This Software Is Very Easy To Operate And Light On System Tool To Maintain Information About Clients, Cases, Hearings Etc.</p>
                             <div>
                                 <a href="{{route('check.requirements')}}" class="btn btn-default pull-right">
                                     Next
@@ -32,7 +32,7 @@
 
                                 <div>
 
-                                    <p>©2019 All Rights Reserved. LawOffice</p>
+                                    <p>©2024 All Rights Reserved. CaseMate</p>
                                 </div>
                             </div>
                         </form>

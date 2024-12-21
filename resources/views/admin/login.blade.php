@@ -54,8 +54,8 @@
                 <br />
 
                 <div>
-                  <h1><i class="fa fa-gavel"></i> &nbsp;&nbsp;LawOffice</h1>
-                  <p>©2019 All Rights Reserved. Advocate Dairy</p>
+                  <h1><i class="fa fa-gavel"></i> &nbsp;&nbsp;CaseMate</h1>
+                  <p>©2024 All Rights Reserved. Advocate Dairy</p>
                 </div>
               </div>
             </form>
@@ -90,8 +90,8 @@
                 <br />
 
                 <div>
-                  <h1><i class="fa fa-gavel"></i>&nbsp;&nbsp; LawOffice</h1>
-                  <p>©2019 All Rights Reserved. Advocate Dairy</p>
+                  <h1><i class="fa fa-gavel"></i>&nbsp;&nbsp; CaseMate</h1>
+                  <p>©2024 All Rights Reserved. Advocate Dairy</p>
                 </div>
               </div>
             </form>

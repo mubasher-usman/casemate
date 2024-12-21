@@ -7,8 +7,6 @@ use Closure;
 class SecureHeaders
 {
     // Enumerate headers which you do not want in your application's responses.
-    // Great starting point would be to go check out @Scott_Helme's:
-    // http://lawoffice.mnstechnoweb.com/
     private $unwantedHeaderList = [
         'X-Powered-By',
         'Server',

@@ -61,12 +61,12 @@
                                     </span>
                                 @endif
               </div>
-         
+
               <div>
                      <button type="submit" class="btn btn-default">
                                    Send Password Reset Link
                                 </button>
-               
+
               </div>
 
               <div class="clearfix"></div>
@@ -77,8 +77,8 @@
                 <br />
 
                 <div>
- 
-                  <p>©2019 All Rights Reserved. LawOffice</p>
+
+                  <p>©2024 All Rights Reserved. CaseMate</p>
                 </div>
               </div>
             </form>

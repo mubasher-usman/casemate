@@ -86,8 +86,8 @@
                 <br />
 
                 <div>
-      
-                  <p>©2019 All Rights Reserved. LawOffice</p>
+
+                  <p>©2024 All Rights Reserved. CaseMate</p>
                 </div>
               </div>
             </form>
